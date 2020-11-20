@@ -17,5 +17,5 @@ https://antony.github.io/svelte-meetup-sapper-authentication-april-2020/
 https://github.com/beyonk-adventures/sapper-rbac
 
 
-TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!
-https://www.youtube.com/watch?v=BwuLxPH8IDs
+Building a Netflix Clone - React Tutorial - Styled Components - Firebase (Firestore & Auth)
+https://www.youtube.com/watch?v=x_EEwGe-a9o
