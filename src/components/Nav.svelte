@@ -1,6 +1,6 @@
 <script>
   import { stores } from '@sapper/app'
-  
+
   const { session } = stores()
 
   export let segment
